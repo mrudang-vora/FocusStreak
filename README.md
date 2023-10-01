@@ -1,4 +1,6 @@
-# FocusStreak: Focus Daily, Thrive Endlessly
+# FocusStreak:
+> ***"Focus Daily, Thrive Endlessly: Elevate Yourself, One Percent at a Time."***
+
 FocusStreak is your dedicated focus companion helping your journey of daily growth and continuous improvement.
 
 - 📅 Daily Focus: Set one primary task for every day.
@@ -6,7 +8,4 @@ FocusStreak is your dedicated focus companion helping your journey of daily grow
 - 🚫 Stop Distractions: Block distractions (like social media and other custom websites) during deep work sessions.
 - 🎥 YouTube Integration: Immerse into a personalized and motivating work environment by integrating your YouTube playlists.
 
-With FocusStreak, it's not just about focus; it's about crafting a streak of success that knows no bounds.
-
-# Our Motto:
-"Focus Daily, Thrive Endlessly: Elevate Yourself, One Percent at a Time."
+With FocusStreak, it's not just about focus; it's about crafting a streak of consistent success that knows no bounds.
