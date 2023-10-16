@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "FocusStreak",
+    "version": "1.0",
+    "description": "A Pomodoro app with daily focus, customized timer, distraction blocker, YouTube integration, and success streak tracking.",
+    "permissions": ["storage", "activeTab", "alarms", "webNavigation", "tabs"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "pomodoro-flaticon.png",
+        "48": "pomodoro-flaticon.png",
+        "128": "pomodoro-flaticon.png"
+      }
+    },
+    "icons": {
+      "16": "pomodoro-flaticon.png",
+      "48": "pomodoro-flaticon.png",
+      "128": "pomodoro-flaticon.png"
+    }
+  }
+  
